@@ -1,4 +1,4 @@
-<h1 align="center">Selamlar! Ben, Kağan!</h1>
+<h1 align="center">Hi everyone! I’m Kağan!</h1>
 <h4 align="center">Software Developer and Industrial Engineer</h4>
 <br>
 
